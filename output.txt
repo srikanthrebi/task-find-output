@@ -1,0 +1,78 @@
+find outputs
+
+1. Find output of 10+20+"30"
+
+Ans:
+
+10+20=30.
+
+30+"30"=3030.
+
+2. Find output of "10"+20+30
+
+Ans:
+
+102030.
+
+3. 10=='10'
+
+Ans:
+
+true.
+
+4. 20=== "20"
+
+Ans:
+
+false
+
+5. JS advantage
+
+Ans:
+1.JavaScript is easy to learn. Any one which have basic knowledge of programming can easily lean JavaScript.
+
+2.JavaScript is executed on the client side that’s why it is very fast.
+
+3.It refers to lots of skills. It can be used in a wide range of applications.
+
+4.JavaScript reduce the server load as it executes on the client side.
+
+6. For in and for each difference
+
+Ans:
+
+For in - It is used to loop through the properties in objects and alsp used in arrays
+For Each- Other than normal loop, it will use a callback function for each and every iteration until the end value in an array.
+
+7. What is closure?
+
+Ans:
+
+A closure can be defined as a JavaScript feature in which the inner function has access to the outer function variable. In JavaScript, every time a closure is created with the creation of a function.
+
+8.Write 5 math inbuilt method.
+
+Ans:
+ 
+ 1.Math.floor(1.5);
+=1
+
+2.Math.round(2.7);
+=3
+
+3.Math.sqrt(21);
+=7
+
+4.Math.random();
+=0.1 to 1 any random number
+=0.1245
+
+5.Math.max();
+a=[12,33,18,42,10]
+math.max(a)
+=42.
+
+6.Math.min();
+a=[1,2,6,4,20]
+math.min(a)
+=1.
